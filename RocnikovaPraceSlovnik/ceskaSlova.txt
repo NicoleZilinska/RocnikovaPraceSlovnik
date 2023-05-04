@@ -1,0 +1,226 @@
+ahoj
+dobrý den
+dobrý večer
+dobrou noc
+nashledanou
+děkuji
+není zač
+promiňte
+já
+ty
+on
+ona
+my
+vy
+oni
+ony
+rodina
+chlapec
+dívka
+matka
+otec
+sestra
+bratr
+dům
+pes
+kočka
+škola
+jméno
+jazyk
+auto
+bílý
+černý
+červený
+zelený
+modrý
+oranžový
+žlutý
+hnědý
+fialový
+růžový
+šedý
+dobrý
+špatný
+velký
+malý
+čistý
+studený
+horký
+tvrdý
+doleva
+doprava
+rovně
+šťastný
+ulice
+město
+kniha
+kde
+jak
+kdo
+kolik
+včela
+kůň
+slon
+mravenec
+hmyz
+lev
+moucha
+pták
+ryba
+had
+opice
+kráva
+být
+mít
+jít
+dělat
+moci
+vědět
+chtít
+muset
+vidět
+přijít
+odejít
+dát
+pracovat
+hledat
+koupit
+hrát
+milovat
+vážit
+dokončit
+slyšet
+cítit
+oblékat se
+lhát
+získat
+zapomenout
+létat
+jedna
+dva
+tři
+čtyři
+pět
+šest
+sedm
+osm
+devět
+deset
+jedenáct
+dvanáct
+třináct
+čtrnáct
+patnáct
+šestnáct
+sedmnáct
+osmnáct
+devatenáct
+dvacet
+dvacet jedna
+dvacet dva
+dvacet tři
+dvacet čtyři
+dvacet pět
+dvacet šest
+dvacet sedm
+dvacet osm
+dvacet děvět
+třicet
+třicet jedna
+třicet dva
+třicet tři
+třicet čtyři
+třicet pět
+třicet šest
+třicet sedm
+třicet osm
+třicet devět
+čtyřicet
+čtyřicet jedna
+čtyřicet dva
+čtyřicet tři
+čtyřicet čtyři
+čtyřicet pět
+čtyřicet šest
+čtyřicet sedm
+čtyřicet osm
+čtyřicet devět
+padesát
+padesát jedna
+padesát dva
+padesát tři
+padesát čtyři
+padesát pět
+padesát šest
+padesát sedm
+padesát osm
+padesát devět
+šedesát
+šedesát jedna
+šedesát dva
+šedesát tři
+šedesát čtyři
+šedesát pět
+šedesát šest
+šedesát sedm
+šedesát osm
+šedesát devět
+sedmdesát
+sedmdesát jedna
+sedmdesát dva
+sedmdesát tři
+sedmdesát čtyři
+sedmdesát pět
+sedmdesát šest
+sedmdesát sedm
+sedmdesát osm
+sedmdesát devět
+osmdesát
+osmdesát jedna
+osmdesát dva
+osmdesát tři
+osmdesát čtyři
+osmdesát pět
+osmdesát šest
+osmdesát sedm
+osmdesát osm
+osmdesát devět
+devadesát
+devadesát jedna
+devadesát dva
+devadesát tři
+devadesát čtyři
+devadesát pět
+devadesát šest
+devadesát sedm
+devadesát osm
+devadesát devět
+sto
+tisíc
+milion
+park
+vesnice
+byt
+oběd
+snídaně
+strom
+květina
+život
+sníh
+déšť
+letadlo
+pondělí
+úterý
+středa
+čtvrtek
+pátek
+sobota
+neděle
+mrkev
+cibule
+energický
+roztomilý
+zubař
+učitel
+hasič
+doktor
